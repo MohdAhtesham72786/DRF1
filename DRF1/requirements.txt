@@ -1,0 +1,10 @@
+
+django
+djangorestframework
+pyyaml 
+requests
+django-cors-headers
+
+
+pip install -r requirements.test
+pip install --upgrade pip
